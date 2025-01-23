@@ -1,0 +1,14 @@
+project: Wine Dataset EDA
+description: >
+  Exploratory Data Analysis (EDA) on the Wine dataset, originally from the UCI Machine Learning Repository.
+  The dataset includes 13 chemical properties of wine, categorized into three classes.
+author: Ifediba Chimdalu
+date: 2025-01-23
+license: MIT
+dataset_source: UCI Machine Learning Repository
+tools:
+  - Python
+  - Pandas
+  - Matplotlib
+  - Seaborn
+
