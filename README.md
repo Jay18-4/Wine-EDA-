@@ -35,4 +35,4 @@ The goal of this analysis is to:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/wine-eda.git
+   git clone https://github.com/Jay18-4/wine-eda.git
