@@ -36,3 +36,7 @@ The goal of this analysis is to:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Jay18-4/wine-eda.git
+
+## 📬 Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chimdalu-ifediba-3a322628b) or star ⭐ the repo if you found it useful!
